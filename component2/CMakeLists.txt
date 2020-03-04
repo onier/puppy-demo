@@ -1,2 +1,2 @@
-set(DEPENDS component1 )
+set(DEPENDS puppy-demo.component1 )
 include(library)
